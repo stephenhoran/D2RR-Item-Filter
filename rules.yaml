@@ -1,0 +1,7 @@
+
+bases:
+  - color: orange1
+    bases:
+      - Cryptic Axe
+types:
+  elite: orange4
