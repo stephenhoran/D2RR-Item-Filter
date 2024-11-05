@@ -1,7 +1,21 @@
 
 bases:
   - color: orange1
+    prefix: "* "
     bases:
       - Colossus Voulge
+      - Greater Talons
+      - Dimensional Shard
+      - Swirling Crystal
+  - color: purple
+    prefix: "* "
+    bases:
+      - Unearthed Wand
+      - Grand Matron Bow
+      - Hyraskull
+      - Mirrored Boots
+      - Shadow Plate
 types:
   elite: orange4
+jewels:
+  color: red1

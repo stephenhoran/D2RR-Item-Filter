@@ -78,4 +78,5 @@ func (d *d2rr) Marshal() []byte {
 func (d *d2rr) ApplyRules() {
 	d.RulesElite()
 	d.RulesBases()
+	d.RulesJewels()
 }

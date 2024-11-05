@@ -7,13 +7,19 @@ import (
 )
 
 type Rules struct {
-	Bases []Itemsrule       `yaml:"bases"`
-	Types map[string]string `yaml:"types"`
+	Bases  []Itemsrule       `yaml:"bases"`
+	Types  map[string]string `yaml:"types"`
+	Jewels Jewels            `yaml:"jewels"`
 }
 
 type Itemsrule struct {
-	Color string   `yaml:"color"`
-	Bases []string `yaml:"bases"`
+	Color  string   `yaml:"color"`
+	Prefix string   `yaml:"prefix"`
+	Bases  []string `yaml:"bases"`
+}
+
+type Jewels struct {
+	Color string `yaml:"color"`
 }
 
 func (d *d2rr) LoadConfig(f string) {
