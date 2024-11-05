@@ -71,7 +71,7 @@ func (d *d2rr) GetItems() {
 }
 
 func (d *d2rr) Marshal() []byte {
-	json, _ := json.Marshal(d.items)
+	json, _ := json.MarshalIndent(d.items, "", "\t")
 	return json
 }
 
