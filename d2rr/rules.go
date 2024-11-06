@@ -41,3 +41,13 @@ func (d *d2rr) RulesJewels() {
 		}
 	}
 }
+
+func (d *d2rr) RulesRemoveNormal() {
+	if d.rules.RemoveNormal {
+		for _, i := range d.items {
+			if strings.Contains(i.ENUS, "ÿcN[ÿc0NÿcN]ÿc5") {
+				i.ReplaceName(".")
+			}
+		}
+	}
+}

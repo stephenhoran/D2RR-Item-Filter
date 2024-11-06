@@ -28,6 +28,10 @@ func (i *item) Replace(filter string, replace string) {
 	i.ENUS = strings.Replace(i.ENUS, filter, replace, 1)
 }
 
+func (i *item) ReplaceName(replace string) {
+	i.ENUS = replace
+}
+
 func (d *d2rr) ReturnItems() itemResponse {
 	return d.items
 }

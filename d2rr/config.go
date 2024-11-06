@@ -7,9 +7,10 @@ import (
 )
 
 type Rules struct {
-	Bases  []Itemsrule       `yaml:"bases"`
-	Types  map[string]string `yaml:"types"`
-	Jewels Jewels            `yaml:"jewels"`
+	Bases        []Itemsrule       `yaml:"bases"`
+	Types        map[string]string `yaml:"types"`
+	Jewels       Jewels            `yaml:"jewels"`
+	RemoveNormal bool              `yaml:"removeNormal"`
 }
 
 type Itemsrule struct {

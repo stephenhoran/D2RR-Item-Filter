@@ -138,7 +138,7 @@
 	{
 		"id": 1930,
 		"Key": "cap",
-		"enUS": "Cap ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "便帽",
 		"deDE": "[fs]Kappe",
 		"esES": "[ms]Gorro",
@@ -155,7 +155,7 @@
 	{
 		"id": 1931,
 		"Key": "skp",
-		"enUS": "Skull Cap ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "顱帽",
 		"deDE": "[ms]Eisenhut",
 		"esES": "[ms]Capacete",
@@ -172,7 +172,7 @@
 	{
 		"id": 1932,
 		"Key": "hlm",
-		"enUS": "Helm ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "頭盔",
 		"deDE": "[ms]Helm",
 		"esES": "[ms]Yelmo",
@@ -189,7 +189,7 @@
 	{
 		"id": 1933,
 		"Key": "fhl",
-		"enUS": "Full Helm ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "全罩盔",
 		"deDE": "[ms]Vollhelm",
 		"esES": "[ms]Yelmo completo",
@@ -206,7 +206,7 @@
 	{
 		"id": 1934,
 		"Key": "ghm",
-		"enUS": "Great Helm ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "重盔",
 		"deDE": "[ms]Großhelm",
 		"esES": "[ms]Gran yelmo",
@@ -223,7 +223,7 @@
 	{
 		"id": 1935,
 		"Key": "crn",
-		"enUS": "Crown ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "王冠",
 		"deDE": "[fs]Krone",
 		"esES": "[fs]Corona",
@@ -240,7 +240,7 @@
 	{
 		"id": 1936,
 		"Key": "msk",
-		"enUS": "Mask ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "面具",
 		"deDE": "[fs]Maske",
 		"esES": "[fs]Máscara",
@@ -257,7 +257,7 @@
 	{
 		"id": 1937,
 		"Key": "qui",
-		"enUS": "Quilted Armor ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "棉布甲",
 		"deDE": "[fs]leichte Rüstung",
 		"esES": "[fs]Armadura acolchada",
@@ -274,7 +274,7 @@
 	{
 		"id": 1938,
 		"Key": "lea",
-		"enUS": "Leather Armor ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "皮革甲",
 		"deDE": "[fs]Lederrüstung",
 		"esES": "[fs]Armadura de cuero",
@@ -291,7 +291,7 @@
 	{
 		"id": 1939,
 		"Key": "hla",
-		"enUS": "Hard Leather Armor ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "硬皮甲",
 		"deDE": "[ns]gehärtetes Leder",
 		"esES": "[fs]Armadura de cuero duro",
@@ -308,7 +308,7 @@
 	{
 		"id": 1940,
 		"Key": "stu",
-		"enUS": "Studded Leather ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "鑲釘皮甲",
 		"deDE": "[ns]beschlagenes Leder",
 		"esES": "[ms]Cuero tachonado",
@@ -325,7 +325,7 @@
 	{
 		"id": 1941,
 		"Key": "rng",
-		"enUS": "Ring Mail ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "環甲",
 		"deDE": "[ms]Ringpanzer",
 		"esES": "[fs]Cota de anillos",
@@ -342,7 +342,7 @@
 	{
 		"id": 1942,
 		"Key": "scl",
-		"enUS": "Scale Mail ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "鱗甲",
 		"deDE": "[ms]Schuppenpanzer",
 		"esES": "[fs]Cota de escamas",
@@ -359,7 +359,7 @@
 	{
 		"id": 1943,
 		"Key": "chn",
-		"enUS": "Chain Mail ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "鎖鍊甲",
 		"deDE": "[ms]Kettenpanzer",
 		"esES": "[fs]Cota de malla",
@@ -376,7 +376,7 @@
 	{
 		"id": 1944,
 		"Key": "brs",
-		"enUS": "Breast Plate ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "胸鎧",
 		"deDE": "[ms]Brustpanzer",
 		"esES": "[fs]Coraza blindada",
@@ -393,7 +393,7 @@
 	{
 		"id": 1945,
 		"Key": "spl",
-		"enUS": "Splint Mail ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "板甲",
 		"deDE": "[fs]Bänderrüstung",
 		"esES": "[fs]Cota de láminas",
@@ -410,7 +410,7 @@
 	{
 		"id": 1946,
 		"Key": "plt",
-		"enUS": "Plate Mail ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "鎧甲",
 		"deDE": "[ms]Plattenharnisch",
 		"esES": "[fs]Cota de placas",
@@ -427,7 +427,7 @@
 	{
 		"id": 1947,
 		"Key": "fld",
-		"enUS": "Field Plate ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "野戰鎧甲",
 		"deDE": "[ms]Feldharnisch",
 		"esES": "[fs]Coraza de campaña",
@@ -444,7 +444,7 @@
 	{
 		"id": 1948,
 		"Key": "gth",
-		"enUS": "Gothic Plate ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "哥德鎧甲",
 		"deDE": "[ms]Prunkharnisch",
 		"esES": "[fs]Coraza gótica",
@@ -461,7 +461,7 @@
 	{
 		"id": 1949,
 		"Key": "ful",
-		"enUS": "Full Plate Mail ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "全身鎧甲",
 		"deDE": "[ms]voller Harnisch",
 		"esES": "[fs]Cota de placas completa",
@@ -478,7 +478,7 @@
 	{
 		"id": 1950,
 		"Key": "aar",
-		"enUS": "Ancient Armor ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "上古鎧甲",
 		"deDE": "[fs]alte Rüstung",
 		"esES": "[fs]Armadura antigua",
@@ -495,7 +495,7 @@
 	{
 		"id": 1951,
 		"Key": "ltp",
-		"enUS": "Light Plate ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "輕型鎧甲",
 		"deDE": "[fs]leichte Plattenrüstung",
 		"esES": "[fs]Coraza ligera",
@@ -512,7 +512,7 @@
 	{
 		"id": 1952,
 		"Key": "buc",
-		"enUS": "Buckler ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "小圓盾",
 		"deDE": "[ms]Beschützer",
 		"esES": "[ms]Broquel",
@@ -529,7 +529,7 @@
 	{
 		"id": 1953,
 		"Key": "sml",
-		"enUS": "Small Shield ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "小型盾",
 		"deDE": "[ms]kleiner Schild",
 		"esES": "[ms]Escudo pequeño",
@@ -546,7 +546,7 @@
 	{
 		"id": 1954,
 		"Key": "lrg",
-		"enUS": "Large Shield ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "大型盾",
 		"deDE": "[ms]großer Schild",
 		"esES": "[ms]Escudo grande",
@@ -563,7 +563,7 @@
 	{
 		"id": 1955,
 		"Key": "kit",
-		"enUS": "Kite Shield ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "鳶盾",
 		"deDE": "[ms]eckiger Schild",
 		"esES": "[ms]Escudo de lágrima",
@@ -580,7 +580,7 @@
 	{
 		"id": 1956,
 		"Key": "tow",
-		"enUS": "Tower Shield ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "塔盾",
 		"deDE": "[ms]hoher Schild",
 		"esES": "[fs]Tarja",
@@ -597,7 +597,7 @@
 	{
 		"id": 1957,
 		"Key": "gts",
-		"enUS": "Gothic Shield ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "哥德盾",
 		"deDE": "[ms]Prunkschild",
 		"esES": "[ms]Escudo gótico",
@@ -614,7 +614,7 @@
 	{
 		"id": 1958,
 		"Key": "lgl",
-		"enUS": "Leather Gloves ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "皮革手套",
 		"deDE": "[pl]Lederhandschuhe",
 		"esES": "[mp]Guantes de cuero",
@@ -631,7 +631,7 @@
 	{
 		"id": 1959,
 		"Key": "vgl",
-		"enUS": "Heavy Gloves ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "厚皮手套",
 		"deDE": "[pl]schwere Handschuhe",
 		"esES": "[mp]Guantes pesados",
@@ -648,7 +648,7 @@
 	{
 		"id": 1960,
 		"Key": "mgl",
-		"enUS": "Chain Gloves ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "鍊甲手套",
 		"deDE": "[pl]Kettenhandschuhe",
 		"esES": "[mp]Guantes de malla",
@@ -665,7 +665,7 @@
 	{
 		"id": 1961,
 		"Key": "tgl",
-		"enUS": "Light Gauntlets ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "輕型護手",
 		"deDE": "[pl]leichte Panzerhandschuhe",
 		"esES": "[mp]Guanteletes ligeros",
@@ -682,7 +682,7 @@
 	{
 		"id": 1962,
 		"Key": "hgl",
-		"enUS": "Gauntlets ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "鋼鐵護手",
 		"deDE": "[pl]Panzerhandschuhe",
 		"esES": "[mp]Guanteletes",
@@ -699,7 +699,7 @@
 	{
 		"id": 1963,
 		"Key": "lbt",
-		"enUS": "Boots ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "皮靴",
 		"deDE": "[pl]Stiefel",
 		"esES": "[fp]Botas",
@@ -716,7 +716,7 @@
 	{
 		"id": 1964,
 		"Key": "vbt",
-		"enUS": "Heavy Boots ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "重靴",
 		"deDE": "[pl]schwere Stiefel",
 		"esES": "[fp]Botas pesadas",
@@ -733,7 +733,7 @@
 	{
 		"id": 1965,
 		"Key": "mbt",
-		"enUS": "Chain Boots ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "鎖鍊靴",
 		"deDE": "[pl]Kettenstiefel",
 		"esES": "[fp]Botas de malla",
@@ -750,7 +750,7 @@
 	{
 		"id": 1966,
 		"Key": "tbt",
-		"enUS": "Light Plated Boots ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "輕鎧靴",
 		"deDE": "[pl]leichte Plattenstiefel",
 		"esES": "[fp]Botas de placas ligeras",
@@ -767,7 +767,7 @@
 	{
 		"id": 1967,
 		"Key": "hbt",
-		"enUS": "Greaves ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "護脛",
 		"deDE": "[pl]Beinschienen",
 		"esES": "[fp]Grebas",
@@ -784,7 +784,7 @@
 	{
 		"id": 1968,
 		"Key": "lbl",
-		"enUS": "Sash ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "束帶",
 		"deDE": "[fs]Schärpe",
 		"esES": "[ms]Fajín",
@@ -801,7 +801,7 @@
 	{
 		"id": 1969,
 		"Key": "vbl",
-		"enUS": "Light Belt ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "輕腰帶",
 		"deDE": "[ms]leichter Gürtel",
 		"esES": "[ms]Cinturón ligero",
@@ -818,7 +818,7 @@
 	{
 		"id": 1970,
 		"Key": "mbl",
-		"enUS": "Belt ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "腰帶",
 		"deDE": "[ms]Gürtel",
 		"esES": "[ms]Cinturón",
@@ -835,7 +835,7 @@
 	{
 		"id": 1971,
 		"Key": "tbl",
-		"enUS": "Heavy Belt ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "厚腰帶",
 		"deDE": "[ms]schwerer Gürtel",
 		"esES": "[ms]Cinturón pesado",
@@ -852,7 +852,7 @@
 	{
 		"id": 1972,
 		"Key": "hbl",
-		"enUS": "Plated Belt ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "鎧甲腰帶",
 		"deDE": "[ms]Plattengürtel",
 		"esES": "[ms]Cinturón de placas",
@@ -869,7 +869,7 @@
 	{
 		"id": 1973,
 		"Key": "bhm",
-		"enUS": "Bone Helm ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "骸骨頭盔",
 		"deDE": "[ms]Knochenhelm",
 		"esES": "[ms]Yelmo de hueso",
@@ -886,7 +886,7 @@
 	{
 		"id": 1974,
 		"Key": "bsh",
-		"enUS": "Bone Shield ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "骨盾",
 		"deDE": "[ms]Knochenschild",
 		"esES": "[ms]Escudo de hueso",
@@ -903,7 +903,7 @@
 	{
 		"id": 1975,
 		"Key": "spk",
-		"enUS": "Spiked Shield ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "尖刺盾",
 		"deDE": "[ms]Dornenschild",
 		"esES": "[ms]Escudo con pinchos",
@@ -920,7 +920,7 @@
 	{
 		"id": 1976,
 		"Key": "hax",
-		"enUS": "Hand Axe ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "手斧",
 		"deDE": "[fs]Handaxt",
 		"esES": "[fs]Hacha de mano",
@@ -937,7 +937,7 @@
 	{
 		"id": 1977,
 		"Key": "axe",
-		"enUS": "Axe ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "斧",
 		"deDE": "[fs]Axt",
 		"esES": "[fs]Hacha",
@@ -954,7 +954,7 @@
 	{
 		"id": 1978,
 		"Key": "2ax",
-		"enUS": "Double Axe ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "雙刃斧",
 		"deDE": "[fs]Doppelaxt",
 		"esES": "[fs]Hacha doble",
@@ -971,7 +971,7 @@
 	{
 		"id": 1979,
 		"Key": "mpi",
-		"enUS": "Military Pick ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "軍用鎬",
 		"deDE": "[fs]Militärpicke",
 		"esES": "[ms]Pico militar",
@@ -988,7 +988,7 @@
 	{
 		"id": 1980,
 		"Key": "wax",
-		"enUS": "War Axe ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "征戰斧",
 		"deDE": "[fs]Kriegsaxt",
 		"esES": "[fs]Hacha de guerra",
@@ -1005,7 +1005,7 @@
 	{
 		"id": 1981,
 		"Key": "lax",
-		"enUS": "Large Axe ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "重斧",
 		"deDE": "[fs]große Axt",
 		"esES": "[fs]Hacha grande",
@@ -1022,7 +1022,7 @@
 	{
 		"id": 1982,
 		"Key": "bax",
-		"enUS": "Broad Axe ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "闊斧",
 		"deDE": "[fs]Breitaxt",
 		"esES": "[fs]Hacha ancha",
@@ -1039,7 +1039,7 @@
 	{
 		"id": 1983,
 		"Key": "btx",
-		"enUS": "Battle Axe ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "戰斧",
 		"deDE": "[fs]Kampfaxt",
 		"esES": "[fs]Hacha de batalla",
@@ -1056,7 +1056,7 @@
 	{
 		"id": 1984,
 		"Key": "gax",
-		"enUS": "Great Axe ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "巨斧",
 		"deDE": "[fs]schwere Axt",
 		"esES": "[fs]Gran hacha",
@@ -1073,7 +1073,7 @@
 	{
 		"id": 1985,
 		"Key": "gix",
-		"enUS": "Giant Axe ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "巨人斧",
 		"deDE": "[fs]Riesenaxt",
 		"esES": "[fs]Hacha gigante",
@@ -1090,7 +1090,7 @@
 	{
 		"id": 1986,
 		"Key": "wnd",
-		"enUS": "Wand ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "魔杖",
 		"deDE": "[ms]Stab",
 		"esES": "[fs]Vara",
@@ -1107,7 +1107,7 @@
 	{
 		"id": 1987,
 		"Key": "ywn",
-		"enUS": "Yew Wand ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "紫杉魔杖",
 		"deDE": "[ms]Eibenstab",
 		"esES": "[fs]Vara de tejo",
@@ -1124,7 +1124,7 @@
 	{
 		"id": 1988,
 		"Key": "bwn",
-		"enUS": "Bone Wand ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "骸骨魔杖",
 		"deDE": "[ms]Knochenstab",
 		"esES": "[fs]Vara de hueso",
@@ -1141,7 +1141,7 @@
 	{
 		"id": 1989,
 		"Key": "gwn",
-		"enUS": "Grim Wand ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "陰森魔杖",
 		"deDE": "[ms]Schlagstab",
 		"esES": "[fs]Vara lúgubre",
@@ -1158,7 +1158,7 @@
 	{
 		"id": 1990,
 		"Key": "clb",
-		"enUS": "Club ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "短棒",
 		"deDE": "[fs]Keule",
 		"esES": "[fs]Porra",
@@ -1175,7 +1175,7 @@
 	{
 		"id": 1991,
 		"Key": "scp",
-		"enUS": "Scepter ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "權杖",
 		"deDE": "[ns]Szepter",
 		"esES": "[ms]Cetro",
@@ -1192,7 +1192,7 @@
 	{
 		"id": 1992,
 		"Key": "gsc",
-		"enUS": "Grand Scepter ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "莊嚴權杖",
 		"deDE": "[ns]großes Szepter",
 		"esES": "[ms]Gran cetro",
@@ -1209,7 +1209,7 @@
 	{
 		"id": 1993,
 		"Key": "wsp",
-		"enUS": "War Scepter ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "征戰權杖",
 		"deDE": "[ns]Kriegsszepter",
 		"esES": "[ms]Cetro de guerra",
@@ -1226,7 +1226,7 @@
 	{
 		"id": 1994,
 		"Key": "spc",
-		"enUS": "Spiked Club ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "狼牙棒",
 		"deDE": "[fs]Dornenkeule",
 		"esES": "[fs]Porra con pinchos",
@@ -1243,7 +1243,7 @@
 	{
 		"id": 1995,
 		"Key": "mac",
-		"enUS": "Mace ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "釘鎚",
 		"deDE": "[ms]Knüppel",
 		"esES": "[fs]Maza",
@@ -1260,7 +1260,7 @@
 	{
 		"id": 1996,
 		"Key": "mst",
-		"enUS": "Morning Star ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "釘頭鎚",
 		"deDE": "[ms]Morgenstern",
 		"esES": "[fs]Estrella del alba",
@@ -1277,7 +1277,7 @@
 	{
 		"id": 1997,
 		"Key": "fla",
-		"enUS": "Flail ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "連枷",
 		"deDE": "[ms]Flegel",
 		"esES": "[ms]Mangual",
@@ -1294,7 +1294,7 @@
 	{
 		"id": 1998,
 		"Key": "whm",
-		"enUS": "War Hammer ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "戰鎚",
 		"deDE": "[ms]Kriegshammer",
 		"esES": "[ms]Martillo de guerra",
@@ -1311,7 +1311,7 @@
 	{
 		"id": 1999,
 		"Key": "mau",
-		"enUS": "Maul ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "重鎚",
 		"deDE": "[ms]Holzhammer",
 		"esES": "[fs]Almádena",
@@ -1328,7 +1328,7 @@
 	{
 		"id": 2000,
 		"Key": "gma",
-		"enUS": "Great Maul ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "巨型重鎚",
 		"deDE": "[ms]großer Holzhammer",
 		"esES": "[fs]Gran almádena",
@@ -1345,7 +1345,7 @@
 	{
 		"id": 2001,
 		"Key": "ssd",
-		"enUS": "Short Sword ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "短劍",
 		"deDE": "[ns]Kurzschwert",
 		"esES": "[fs]Espada corta",
@@ -1362,7 +1362,7 @@
 	{
 		"id": 2002,
 		"Key": "scm",
-		"enUS": "Scimitar ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "彎刀",
 		"deDE": "[ms]Krummsäbel",
 		"esES": "[fs]Cimitarra",
@@ -1379,7 +1379,7 @@
 	{
 		"id": 2003,
 		"Key": "sbr",
-		"enUS": "Sabre ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "軍刀",
 		"deDE": "[ms]Säbel",
 		"esES": "[ms]Sable",
@@ -1396,7 +1396,7 @@
 	{
 		"id": 2004,
 		"Key": "flc",
-		"enUS": "Falchion ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "彎刃大刀",
 		"deDE": "[ns]Krummschwert",
 		"esES": "[ms]Chafarote",
@@ -1413,7 +1413,7 @@
 	{
 		"id": 2005,
 		"Key": "crs",
-		"enUS": "Crystal Sword ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "水晶劍",
 		"deDE": "[ns]Kristallschwert",
 		"esES": "[fs]Espada de cristal",
@@ -1430,7 +1430,7 @@
 	{
 		"id": 2006,
 		"Key": "bsd",
-		"enUS": "Broad Sword ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "闊劍",
 		"deDE": "[ns]Breitschwert",
 		"esES": "[fs]Espada ancha",
@@ -1447,7 +1447,7 @@
 	{
 		"id": 2007,
 		"Key": "lsd",
-		"enUS": "Long Sword ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "長劍",
 		"deDE": "[ns]Langschwert",
 		"esES": "[fs]Espada larga",
@@ -1464,7 +1464,7 @@
 	{
 		"id": 2008,
 		"Key": "wsd",
-		"enUS": "War Sword ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "征戰劍",
 		"deDE": "[ns]Kriegsschwert",
 		"esES": "[fs]Espada de guerra",
@@ -1481,7 +1481,7 @@
 	{
 		"id": 2009,
 		"Key": "2hs",
-		"enUS": "Two-Handed Sword ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "雙手劍",
 		"deDE": "[ns]Zweihänderschwert",
 		"esES": "[ms]Mandoble",
@@ -1498,7 +1498,7 @@
 	{
 		"id": 2010,
 		"Key": "clm",
-		"enUS": "Claymore ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "闊刃大劍",
 		"deDE": "[ns]Schottenschwert",
 		"esES": "[ms]Claymore",
@@ -1515,7 +1515,7 @@
 	{
 		"id": 2011,
 		"Key": "gis",
-		"enUS": "Giant Sword ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "大劍",
 		"deDE": "[ns]Riesenschwert",
 		"esES": "[fs]Espada gigante",
@@ -1532,7 +1532,7 @@
 	{
 		"id": 2012,
 		"Key": "bsw",
-		"enUS": "Bastard Sword ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "重劍",
 		"deDE": "[ns]Bastardschwert",
 		"esES": "[fs]Espada bastarda",
@@ -1549,7 +1549,7 @@
 	{
 		"id": 2013,
 		"Key": "flb",
-		"enUS": "Flamberge ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "焰形劍",
 		"deDE": "[ms]Flamberg",
 		"esES": "[ms]Flamberge",
@@ -1566,7 +1566,7 @@
 	{
 		"id": 2014,
 		"Key": "gsd",
-		"enUS": "Great Sword ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "巨劍",
 		"deDE": "[ns]Großschwert",
 		"esES": "[fs]Gran espada",
@@ -1583,7 +1583,7 @@
 	{
 		"id": 2015,
 		"Key": "dgr",
-		"enUS": "Dagger ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "匕首",
 		"deDE": "[ms]Dolch",
 		"esES": "[fs]Daga",
@@ -1600,7 +1600,7 @@
 	{
 		"id": 2016,
 		"Key": "dir",
-		"enUS": "Dirk ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "長匕首",
 		"deDE": "[ns]Dolchmesser",
 		"esES": "[ms]Dirk",
@@ -1617,7 +1617,7 @@
 	{
 		"id": 2017,
 		"Key": "kri",
-		"enUS": "Kris ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "波刃匕首",
 		"deDE": "[ms]Kris",
 		"esES": "[ms]Kris",
@@ -1634,7 +1634,7 @@
 	{
 		"id": 2018,
 		"Key": "bld",
-		"enUS": "Blade ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "利刃匕首",
 		"deDE": "[ns]messer",
 		"esES": "[fs]Navaja",
@@ -1651,7 +1651,7 @@
 	{
 		"id": 2019,
 		"Key": "tkf",
-		"enUS": "Throwing Knife ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "飛刀",
 		"deDE": "[ns]Wurfmesser",
 		"esES": "[ms]Cuchillo arrojadizo",
@@ -1668,7 +1668,7 @@
 	{
 		"id": 2020,
 		"Key": "tax",
-		"enUS": "Throwing Axe ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "飛斧",
 		"deDE": "[fs]Wurfaxt",
 		"esES": "[fs]Hacha arrojadiza",
@@ -1685,7 +1685,7 @@
 	{
 		"id": 2021,
 		"Key": "bkf",
-		"enUS": "Balanced Knife ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "平衡飛刀",
 		"deDE": "[ns]Zwillingsmesser",
 		"esES": "[ms]Cuchillo equilibrado",
@@ -1702,7 +1702,7 @@
 	{
 		"id": 2022,
 		"Key": "bal",
-		"enUS": "Balanced Axe ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "平衡飛斧",
 		"deDE": "[fs]Zweifachaxt",
 		"esES": "[fs]Hacha equilibrada",
@@ -1719,7 +1719,7 @@
 	{
 		"id": 2023,
 		"Key": "jav",
-		"enUS": "Javelin ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "標槍",
 		"deDE": "[ms]Wurfspieß",
 		"esES": "[fs]Jabalina",
@@ -1736,7 +1736,7 @@
 	{
 		"id": 2024,
 		"Key": "pil",
-		"enUS": "Pilum ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "長標槍",
 		"deDE": "[ms]Spieß",
 		"esES": "[ms]Pilum",
@@ -1753,7 +1753,7 @@
 	{
 		"id": 2025,
 		"Key": "ssp",
-		"enUS": "Short Spear ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "短矛",
 		"deDE": "[ms]Kurzspeer",
 		"esES": "[fs]Lanza corta",
@@ -1770,7 +1770,7 @@
 	{
 		"id": 2026,
 		"Key": "glv",
-		"enUS": "Glaive ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "長刃槍",
 		"deDE": "[fs]Gleve",
 		"esES": "[fs]Guja",
@@ -1787,7 +1787,7 @@
 	{
 		"id": 2027,
 		"Key": "tsp",
-		"enUS": "Throwing Spear ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "飛矛",
 		"deDE": "[ms]Wurfspeer",
 		"esES": "[fs]Lanza arrojadiza",
@@ -1804,7 +1804,7 @@
 	{
 		"id": 2028,
 		"Key": "spr",
-		"enUS": "Spear ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "長矛",
 		"deDE": "[ms]Speer",
 		"esES": "[fs]Lanza",
@@ -1821,7 +1821,7 @@
 	{
 		"id": 2029,
 		"Key": "tri",
-		"enUS": "Trident ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "三叉戟",
 		"deDE": "[ms]Dreizack",
 		"esES": "[ms]Tridente",
@@ -1838,7 +1838,7 @@
 	{
 		"id": 2030,
 		"Key": "brn",
-		"enUS": "Brandistock ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "三叉槍",
 		"deDE": "[fs]Forke",
 		"esES": "[fs]Roncona",
@@ -1855,7 +1855,7 @@
 	{
 		"id": 2031,
 		"Key": "spt",
-		"enUS": "Spetum ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "勾刃槍",
 		"deDE": "[ns]Spetum",
 		"esES": "[ms]Spetum",
@@ -1872,7 +1872,7 @@
 	{
 		"id": 2032,
 		"Key": "pik",
-		"enUS": "Pike ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "步戰矛",
 		"deDE": "[fs]Pike",
 		"esES": "[fs]Pica",
@@ -1889,7 +1889,7 @@
 	{
 		"id": 2033,
 		"Key": "bar",
-		"enUS": "Bardiche ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "月牙砍刀",
 		"deDE": "[fs]Bardike",
 		"esES": "[ms]Bardiche",
@@ -1906,7 +1906,7 @@
 	{
 		"id": 2034,
 		"Key": "vou",
-		"enUS": "Voulge ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "槍斧",
 		"deDE": "[ms]Landsknechtsspieß",
 		"esES": "[ms]Voulge",
@@ -1923,7 +1923,7 @@
 	{
 		"id": 2035,
 		"Key": "scy",
-		"enUS": "Scythe ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "鐮刀",
 		"deDE": "[fs]Sense",
 		"esES": "[fs]Guadaña",
@@ -1940,7 +1940,7 @@
 	{
 		"id": 2036,
 		"Key": "pax",
-		"enUS": "Poleaxe ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "長柄斧",
 		"deDE": "[ms]Schwengel",
 		"esES": "[fs]Hacha larga",
@@ -1957,7 +1957,7 @@
 	{
 		"id": 2037,
 		"Key": "hal",
-		"enUS": "Halberd ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "長戟",
 		"deDE": "[fs]Hellebarde",
 		"esES": "[fs]Alabarda",
@@ -1974,7 +1974,7 @@
 	{
 		"id": 2038,
 		"Key": "wsc",
-		"enUS": "War Scythe ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "征戰鐮刀",
 		"deDE": "[fs]Kriegssense",
 		"esES": "[fs]Guadaña de guerra",
@@ -1991,7 +1991,7 @@
 	{
 		"id": 2039,
 		"Key": "sst",
-		"enUS": "Short Staff ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "短杖",
 		"deDE": "[ms]Kurzstab",
 		"esES": "[ms]Bastón corto",
@@ -2008,7 +2008,7 @@
 	{
 		"id": 2040,
 		"Key": "lst",
-		"enUS": "Long Staff ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "長杖",
 		"deDE": "[ms]Langstab",
 		"esES": "[ms]Bastón largo",
@@ -2025,7 +2025,7 @@
 	{
 		"id": 2041,
 		"Key": "cst",
-		"enUS": "Gnarled Staff ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "木節法杖",
 		"deDE": "[ms]Knorrenstab",
 		"esES": "[ms]Bastón nudoso",
@@ -2042,7 +2042,7 @@
 	{
 		"id": 2042,
 		"Key": "bst",
-		"enUS": "Battle Staff ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "戰鬥法杖",
 		"deDE": "[ms]Kriegsstab",
 		"esES": "[ms]Bastón de batalla",
@@ -2059,7 +2059,7 @@
 	{
 		"id": 2043,
 		"Key": "wst",
-		"enUS": "War Staff ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "征戰法杖",
 		"deDE": "[ms]Schlachtenstab",
 		"esES": "[ms]Bastón de guerra",
@@ -2076,7 +2076,7 @@
 	{
 		"id": 2044,
 		"Key": "sbw",
-		"enUS": "Short Bow ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "短弓",
 		"deDE": "[ms]Kurzbogen",
 		"esES": "[ms]Arco corto",
@@ -2093,7 +2093,7 @@
 	{
 		"id": 2045,
 		"Key": "hbw",
-		"enUS": "Hunter's Bow ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "獵弓",
 		"deDE": "[ms]Jagdbogen",
 		"esES": "[ms]Arco de cazador",
@@ -2110,7 +2110,7 @@
 	{
 		"id": 2046,
 		"Key": "lbw",
-		"enUS": "Long Bow ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "長弓",
 		"deDE": "[ms]Langbogen",
 		"esES": "[ms]Arco largo",
@@ -2127,7 +2127,7 @@
 	{
 		"id": 2047,
 		"Key": "cbw",
-		"enUS": "Composite Bow ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "複合弓",
 		"deDE": "[ms]Kompositbogen",
 		"esES": "[ms]Arco compuesto",
@@ -2144,7 +2144,7 @@
 	{
 		"id": 2048,
 		"Key": "sbb",
-		"enUS": "Short Battle Bow ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "戰鬥短弓",
 		"deDE": "[ms]kurzer Kampfbogen",
 		"esES": "[ms]Arco corto de batalla",
@@ -2161,7 +2161,7 @@
 	{
 		"id": 2049,
 		"Key": "lbb",
-		"enUS": "Long Battle Bow ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "戰鬥長弓",
 		"deDE": "[ms]langer Kampfbogen",
 		"esES": "[ms]Arco largo de batalla",
@@ -2178,7 +2178,7 @@
 	{
 		"id": 2050,
 		"Key": "swb",
-		"enUS": "Short War Bow ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "征戰短弓",
 		"deDE": "[ms]kurzer Kriegsbogen",
 		"esES": "[ms]Arco corto de guerra",
@@ -2195,7 +2195,7 @@
 	{
 		"id": 2051,
 		"Key": "lwb",
-		"enUS": "Long War Bow ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "征戰長弓",
 		"deDE": "[ms]langer Kriegsbogen",
 		"esES": "[ms]Arco largo de guerra",
@@ -2212,7 +2212,7 @@
 	{
 		"id": 2052,
 		"Key": "lxb",
-		"enUS": "Light Crossbow ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "輕弩",
 		"deDE": "[fs]leichte Armbrust",
 		"esES": "[fs]Ballesta ligera",
@@ -2229,7 +2229,7 @@
 	{
 		"id": 2053,
 		"Key": "mxb",
-		"enUS": "Crossbow ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "弩",
 		"deDE": "[fs]Armbrust",
 		"esES": "[fs]Ballesta",
@@ -2246,7 +2246,7 @@
 	{
 		"id": 2054,
 		"Key": "hxb",
-		"enUS": "Heavy Crossbow ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "重弩",
 		"deDE": "[fs]schwere Armbrust",
 		"esES": "[fs]Ballesta pesada",
@@ -2263,7 +2263,7 @@
 	{
 		"id": 2055,
 		"Key": "rxb",
-		"enUS": "Repeating Crossbow ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "連弩",
 		"deDE": "[fs]Repetierarmbrust",
 		"esES": "[fs]Ballesta de repetición",
@@ -12514,7 +12514,7 @@
 	{
 		"id": 20181,
 		"Key": "ktr",
-		"enUS": "Katar ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "拳刃",
 		"deDE": "[ms]Katar",
 		"esES": "[ms]Katar",
@@ -12531,7 +12531,7 @@
 	{
 		"id": 20182,
 		"Key": "wrb",
-		"enUS": "Wrist Blade ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "腕刃",
 		"deDE": "[fs]Unterarmklinge",
 		"esES": "[fs]Cuchilla de muñeca",
@@ -12548,7 +12548,7 @@
 	{
 		"id": 20183,
 		"Key": "ces",
-		"enUS": "Cestus ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "刃拳",
 		"deDE": "[ms]Cestus",
 		"esES": "[ms]Cestus",
@@ -12565,7 +12565,7 @@
 	{
 		"id": 20184,
 		"Key": "clw",
-		"enUS": "Claws ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "爪",
 		"deDE": "[pl]Klauen",
 		"esES": "[fp]Garras",
@@ -12582,7 +12582,7 @@
 	{
 		"id": 20185,
 		"Key": "btl",
-		"enUS": "Blade Talons ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "刃爪",
 		"deDE": "[pl]Klingenklauen",
 		"esES": "[fp]Garfas tajantes",
@@ -12599,7 +12599,7 @@
 	{
 		"id": 20186,
 		"Key": "skr",
-		"enUS": "Scissors Katar ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "剪刃",
 		"deDE": "[ms]Scherenkatar",
 		"esES": "[ms]Katar tijera",
@@ -14197,7 +14197,7 @@
 	{
 		"id": 20281,
 		"Key": "ob1",
-		"enUS": "Eagle Orb ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "鷹之法珠",
 		"deDE": "[fs]Adlerkugel",
 		"esES": "[ms]Orbe del águila",
@@ -14214,7 +14214,7 @@
 	{
 		"id": 20282,
 		"Key": "ob2",
-		"enUS": "Sacred Globe ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "神聖天球",
 		"deDE": "[fs]Heilige Kugel",
 		"esES": "[ms]Globo sacro",
@@ -14231,7 +14231,7 @@
 	{
 		"id": 20283,
 		"Key": "ob3",
-		"enUS": "Smoked Sphere ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "攏煙之球",
 		"deDE": "[fs]Rauchkugel",
 		"esES": "[fs]Esfera ahumada",
@@ -14248,7 +14248,7 @@
 	{
 		"id": 20284,
 		"Key": "ob4",
-		"enUS": "Clasped Orb ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "握扣法珠",
 		"deDE": "[fs]Klammerkugel",
 		"esES": "[ms]Orbe aferrado",
@@ -14367,7 +14367,7 @@
 	{
 		"id": 20291,
 		"Key": "as7",
-		"enUS": "Claws ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "爪",
 		"deDE": "[pl]Klauen",
 		"esES": "[fp]Garras",
@@ -14384,7 +14384,7 @@
 	{
 		"id": 20292,
 		"Key": "am1",
-		"enUS": "Stag Bow ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "獵鹿弓",
 		"deDE": "[ms]Hirschbogen",
 		"esES": "[ms]Arco de ciervo",
@@ -14401,7 +14401,7 @@
 	{
 		"id": 20293,
 		"Key": "am2",
-		"enUS": "Reflex Bow ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "反射弓",
 		"deDE": "[ms]Reflexbogen",
 		"esES": "[ms]Arco de reflejos",
@@ -14418,7 +14418,7 @@
 	{
 		"id": 20294,
 		"Key": "am3",
-		"enUS": "Maiden Spear ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "女戰長矛",
 		"deDE": "[ms]Jungfernspeer",
 		"esES": "[fs]Lanza doncella",
@@ -14435,7 +14435,7 @@
 	{
 		"id": 20295,
 		"Key": "am4",
-		"enUS": "Maiden Pike ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "女戰長槍",
 		"deDE": "[fs]Jungfernpike",
 		"esES": "[fs]Pica doncella",
@@ -14452,7 +14452,7 @@
 	{
 		"id": 20296,
 		"Key": "am5",
-		"enUS": "Maiden Javelin ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "女戰標槍",
 		"deDE": "[ms]Jungfernwurfspieß",
 		"esES": "[fs]Jabalina doncella",
@@ -14809,7 +14809,7 @@
 	{
 		"id": 20317,
 		"Key": "dr4",
-		"enUS": "Falcon Mask ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "獵鷹面具",
 		"deDE": "[fs]Falkenmaske",
 		"esES": "[fs]Máscara del halcón",
@@ -14826,7 +14826,7 @@
 	{
 		"id": 20318,
 		"Key": "dr2",
-		"enUS": "Hawk Helm ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "飛鷹頭盔",
 		"deDE": "[ms]Falkenhelm",
 		"esES": "[ms]Yelmo del gerifalte",
@@ -14843,7 +14843,7 @@
 	{
 		"id": 20319,
 		"Key": "dr3",
-		"enUS": "Antlers ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "巨角獸帽",
 		"deDE": "[ns]Geweih",
 		"esES": "[fs]Cornamenta",
@@ -14860,7 +14860,7 @@
 	{
 		"id": 20320,
 		"Key": "dr1",
-		"enUS": "Wolf Head ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "狼頭獸帽",
 		"deDE": "[ms]Wolfskopf",
 		"esES": "[fs]Cabeza de lobo",
@@ -14877,7 +14877,7 @@
 	{
 		"id": 20321,
 		"Key": "dr5",
-		"enUS": "Spirit Mask ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "靈狼面具",
 		"deDE": "[fs]Geistermaske",
 		"esES": "[fs]Máscara espiritual",
@@ -14894,7 +14894,7 @@
 	{
 		"id": 20322,
 		"Key": "ba1",
-		"enUS": "Jawbone Cap ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "顎骨帽",
 		"deDE": "[ms]Kieferknochenhut",
 		"esES": "[ms]Casco de mandíbula",
@@ -14911,7 +14911,7 @@
 	{
 		"id": 20323,
 		"Key": "ba2",
-		"enUS": "Fanged Helm ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "尖牙頭盔",
 		"deDE": "[ms]Stoßzahnhelm",
 		"esES": "[ms]Yelmo canino",
@@ -14928,7 +14928,7 @@
 	{
 		"id": 20324,
 		"Key": "ba3",
-		"enUS": "Horned Helm ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "尖角頭盔",
 		"deDE": "[ms]Gehörnter Helm",
 		"esES": "[ms]Yelmo enastado",
@@ -14945,7 +14945,7 @@
 	{
 		"id": 20325,
 		"Key": "ba4",
-		"enUS": "Assault Helmet ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "突擊頭盔",
 		"deDE": "[ms]Angriffshelm",
 		"esES": "[ms]Casco de asalto",
@@ -14962,7 +14962,7 @@
 	{
 		"id": 20326,
 		"Key": "ba5",
-		"enUS": "Avenger Guard ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "復仇者護盔",
 		"deDE": "[ms]Rächender Wächter",
 		"esES": "[fs]Protección vengadora",
@@ -14979,7 +14979,7 @@
 	{
 		"id": 20327,
 		"Key": "pa1",
-		"enUS": "Targe ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "小盾",
 		"deDE": "[fs]Targe",
 		"esES": "[fs]Adarga",
@@ -14996,7 +14996,7 @@
 	{
 		"id": 20328,
 		"Key": "pa2",
-		"enUS": "Rondache ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "輕圓盾",
 		"deDE": "[fs]Rondache",
 		"esES": "[fs]Rodela",
@@ -15013,7 +15013,7 @@
 	{
 		"id": 20329,
 		"Key": "pa3",
-		"enUS": "Heraldic Shield ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "紋章盾",
 		"deDE": "[ms]Wappenschild",
 		"esES": "[ms]Escudo heráldico",
@@ -15030,7 +15030,7 @@
 	{
 		"id": 20330,
 		"Key": "pa4",
-		"enUS": "Aerin Shield ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "艾文之盾",
 		"deDE": "[ms]Aerins Schild",
 		"esES": "[ms]Escudo aerin",
@@ -15047,7 +15047,7 @@
 	{
 		"id": 20331,
 		"Key": "pa5",
-		"enUS": "Crown Shield ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "冠冕之盾",
 		"deDE": "[ms]Kronenschild",
 		"esES": "[ms]Escudo de la corona",
@@ -15064,7 +15064,7 @@
 	{
 		"id": 20332,
 		"Key": "ne1",
-		"enUS": "Preserved Head ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "防腐頭顱",
 		"deDE": "[ms]Konservierter Kopf",
 		"esES": "[fs]Cabeza preservada",
@@ -15081,7 +15081,7 @@
 	{
 		"id": 20333,
 		"Key": "ne2",
-		"enUS": "Zombie Head ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "殭屍頭顱",
 		"deDE": "[ms]Zombiekopf",
 		"esES": "[fs]Cabeza de zombi",
@@ -15098,7 +15098,7 @@
 	{
 		"id": 20334,
 		"Key": "ne3",
-		"enUS": "Unraveller Head ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "解繃者頭顱",
 		"deDE": "[ms]Zersetzerkopf",
 		"esES": "[fs]Cabeza de desenredador",
@@ -15115,7 +15115,7 @@
 	{
 		"id": 20335,
 		"Key": "ne4",
-		"enUS": "Gargoyle Head ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "石像鬼頭顱",
 		"deDE": "[ms]Gargoylekopf",
 		"esES": "[fs]Cabeza de gárgola",
@@ -15132,7 +15132,7 @@
 	{
 		"id": 20336,
 		"Key": "ne5",
-		"enUS": "Demon Head ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "惡魔頭顱",
 		"deDE": "[ms]Dämonenkopf",
 		"esES": "[fs]Cabeza de demonio",
@@ -15149,7 +15149,7 @@
 	{
 		"id": 20337,
 		"Key": "ci0",
-		"enUS": "Circlet ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "頭環",
 		"deDE": "[ms]Reif",
 		"esES": "[fs]Aureola",
@@ -15166,7 +15166,7 @@
 	{
 		"id": 20338,
 		"Key": "ci1",
-		"enUS": "Coronet ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "寶冠",
 		"deDE": "[ns]Krönchen",
 		"esES": "[fs]Coronilla",
@@ -25111,7 +25111,7 @@
 	{
 		"id": 21778,
 		"Key": "ob5",
-		"enUS": "Jared's Stone ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "傑瑞德之石",
 		"deDE": "Jareds Stein",
 		"esES": "Piedra de Jared",
@@ -25145,7 +25145,7 @@
 	{
 		"id": 21780,
 		"Key": "axf",
-		"enUS": "Hatchet Hands ÿcN[ÿc0NÿcN]ÿc5",
+		"enUS": ".",
 		"zhTW": "斧手",
 		"deDE": "Axthände",
 		"esES": "[fp]Manos de hachuela",

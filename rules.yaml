@@ -19,3 +19,4 @@ types:
   elite: orange4
 jewels:
   color: red1
+removeNormal: true
